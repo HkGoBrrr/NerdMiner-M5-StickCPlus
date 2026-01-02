@@ -101,7 +101,7 @@ Please contribute them!
 
 ### Writing Style
 
-- **Be beginner-friendly** - assume minimal technical knowledge
+- **This is an experiment
 - **Use clear, simple language**
 - **Break complex steps** into smaller chunks
 - **Add examples** whenever possible
