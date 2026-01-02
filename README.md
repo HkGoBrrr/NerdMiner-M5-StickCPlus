@@ -3,7 +3,7 @@ Step-by-step guide to flash NerdMiner on M5StickC Plus 1.1
 # NerdMiner Setup Guide for M5StickC Plus 1.1
 
 A step-by-step guide to flash NerdMiner v2 firmware onto the M5StickC Plus 1.1 using PlatformIO on Linux.
-
+> **Note:** This guide was tested on Ubuntu 22.04 with M5StickC Plus 1.1. Results may vary on other systems.
 ## Hardware Required
 - M5StickC Plus 1.1 (ESP32-PICO-D4)
 - USB-C cable
